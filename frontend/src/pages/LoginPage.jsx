@@ -22,7 +22,7 @@ const LoginPage = () => {
 
 
   return (
-    <div className='max-h-screen grid lg:grid-cols-2 '>
+    <div className='min-h-screen grid lg:grid-cols-2 '>
       {/* left side   */}
       <AuthImagePattern title={"Welcome Back!"} subtitle={"Sign in to countinue your converstion and catch up with your message."} />
 
